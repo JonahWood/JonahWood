@@ -1,4 +1,5 @@
-### Hi there 👋
+### <h1>A Man of Many Names</h1>
+<h3>Some call him brilliant 🧠</br>  Others call him bad at ping pong 🏓</br>  But most call him that guy Jonah from school 🧍‍♂</h3>
 
 <!--
 **JonahWood/JonahWood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
