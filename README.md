@@ -40,10 +40,8 @@
   <h1>Check out my Capstone project!
     </br>
   <span align="center">
-    --------------
-     Gratuities
-    --------------
-    </br>
+
+  
   <img style="max-height:50
                 px" src="https://pixy.org/src/9/97311.png" alt="[GRAITUITIES]"/>https://gratuities.onrender.com/#/
     </span>
