@@ -32,9 +32,6 @@
 </div>
   </h1>
 
-  <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JonahWood&show_icons=true&theme=dark&locale=en&layout=compact&hide=CSS" alt="JonahWood" /></p>
-</div>
 
 <div align="center">
   <h1>Check out my Capstone project!
