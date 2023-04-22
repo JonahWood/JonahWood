@@ -2,7 +2,7 @@
 
 <h3>Some call him brilliant 🧠</br>  Others call him bad at ping pong 🏓</br>  But most call him that guy Jonah from school 🧍‍♂</h3>
 <h1>
-    <a href="www.linkedin.com/in/JonahWood" rel="nofollow noreferrer">
+    <a href="https://www.linkedin.com/in/JonahWood/" rel="nofollow noreferrer">
     <img  style="min-height:30
                 px" src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin">
   </a>
